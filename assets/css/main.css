@@ -1,4 +1,4 @@
-@import url("font-awesome.min.css");
+//f@import url("font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
 /*
@@ -2087,11 +2087,6 @@
 			box-shadow: 0 0 0 7px white, 0 0 0 8px #e0e0e0;
 			margin: 0 0 2em 0;
 		}
-
-			.icon.major:before {
-				font-size: 36px;
-			}
-
 /* Lists */
 
 	ol.default {
@@ -2475,9 +2470,9 @@
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("images/buhrwen.png");
 		background-position: center center;
-		background-size: cover;
+		background-size: contain;
 		height: 28em;
 		text-align: center;
 		position: relative;
