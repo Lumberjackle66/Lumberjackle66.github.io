@@ -1837,9 +1837,6 @@
 		font-style: italic;
 	}
 
-	p, ul, ol, dl, table, blockquote {
-		margin: 0 0 2em 0;
-	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: inherit;
